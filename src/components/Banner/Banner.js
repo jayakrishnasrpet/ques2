@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            GENERAL'S CRYTPO HUNTING
+            JAYA'S CRYTPO HUNTING
           </Typography>
           <Typography
             variant="subtitle2"
